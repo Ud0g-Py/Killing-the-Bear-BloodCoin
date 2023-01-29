@@ -86,7 +86,7 @@ Gathers information on recents REAL attacks
 
 ```
 
-[TX Wallets](https://github.com/Ud0g-Py/Killing-the-Bear-BloodCoin/tx_wallets.json)
+[TX Wallets](https://github.com/Ud0g-Py/Killing-the-Bear-BloodCoin/blob/master/tx_wallets.json)
 
 Information about transactions and cash flow after an attack, related wallets used for money laundering masquerading with high confidence, etc.
 
