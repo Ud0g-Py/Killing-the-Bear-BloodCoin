@@ -36,7 +36,7 @@ Killing The Bear: BloodCoin also collects email addresses associated with ransom
 - Be able to send reports in bulk about wallets listed and make it public to make harder for the threat actor to catch the money from victim. 🔄
 ## How to use it
 
-[Attack Wallets](https://github.com/Ud0g-Py/Killing-the-Bear-BloodCoin/attack_wallets.json)
+[Attack Wallets](https://github.com/Ud0g-Py/Killing-the-Bear-BloodCoin/blob/master/attack_wallets.json)
 
 Gathers information on recents REAL attacks
 
@@ -94,21 +94,17 @@ Information about transactions and cash flow after an attack, related wallets us
 ```
 {
     "uuid": {
-    "is_valid": true,
-    "hash160": "0e6a27c68d45600ca9d5df7c99a1af43bd78c97e",
-    "n_transactions": 2,
-    "n_unredeemed": 0,
-    "total_received": 13000000,
-    "total_sent": 13000000,
-    "final_balance": 0,
+    "is_valid": boolean,
+    "hash160": "hash",
+    "n_transactions": long int,
+    "n_unredeemed": long int,
+    "total_received": long int,
+    "total_sent": long int,
+    "final_balance": long int,
     "sent_cash_to": [
-        "bc1q4ag90l9jh97trqxktumze24xc0pn8595ty33yef0sreugr7tedeqkr2cy7",
-        "1Jcd2n978MibNbTcLJrik63tueNvzRVGZM",
-        "12KDdVSHvaB46gGTS7pDiBACyWtx5pv5Hs",
-        "3LVMe8YgrsyEhRcpEakcyh1VRisBhs1fsM",
-        "1GrwDkr33gT6LuumniYjKEGjTLhsL5kmqC"
+        "string"
     ],
-    "last_check": "2023-01-29 21:03:14"
+    "last_check": date (YYYY-MM-DD)
     },
 
 ```
