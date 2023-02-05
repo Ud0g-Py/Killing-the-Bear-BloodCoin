@@ -1,8 +1,14 @@
 
 ![Logo](https://static.wixstatic.com/media/aacf8f_ffba4c205ec04ec09101fe63ef0413bc~mv2.png)
 
+# UPDATE - ESXiArgs Campaign Module Added [HERE](https://github.com/Ud0g-Py/Killing-the-Bear-BloodCoin/blob/39fae44ee8aa4b4bcd7bd7266c939384539539cb/ESXi_Campaign)
+- About 800 attacks registered in the repository
 
-## License
+- More than 700 unique wallets collected
+
+- More than 44 unique countries affected
+
+# License
 
 [![MIT License](https://img.shields.io/badge/License-CC--BY--SA--4.0%20-blue)](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
